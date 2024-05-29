@@ -7,19 +7,6 @@ This project aims to enhance the thermal comfort and pain management of MRSA pat
 
 ---
 
-## Table of Contents
-1. Introduction
-2. System Design and Architecture
-3. Data Collection
-4. Thermal Comfort Analysis
-5. Pain Management Analysis
-6. Machine Learning Model for Pain Prediction
-7. Results and Discussion
-8. Conclusion
-9. References
-10. Appendices
-
----
 
 ## 1. Introduction
 
