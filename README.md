@@ -83,9 +83,6 @@ Defines pins, Blynk credentials, and initializes sensor objects.
 
 After uploading the code, the ESP8266 will connect to the WiFi network, initialize the sensors, and start sending data to the Blynk app. You can monitor the sensor data on your Blynk app dashboard.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
